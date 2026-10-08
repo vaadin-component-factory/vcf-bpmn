@@ -1,0 +1,10 @@
+/* bpmn-js sets fill and stroke inline, hence !important. */
+.djs-element.bpmn-status-failed .djs-visual > :first-child {
+  stroke: #c62828 !important;
+  fill: #ffebee !important;
+}
+
+.djs-element.bpmn-status-done .djs-visual > :first-child {
+  stroke: #2e7d32 !important;
+  fill: #e8f5e9 !important;
+}

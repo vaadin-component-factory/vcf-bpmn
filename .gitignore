@@ -23,17 +23,20 @@ target/
 hs_err_pid*
 
 # vaadin related files
-vcf-template-demo/package.json
-vcf-template-demo/webpack.config.js
-vcf-template-demo/webpack.generated.js
-vcf-template-demo/tsconfig.json
-vcf-template-demo/types.d.ts
-vcf-template-demo/target/classes/META-INF/VAADIN/config/flow-build-info.json
-vcf-template-demo/node_modules
-vcf-template-demo/package-lock.json
-vcf-template-demo/frontend/generated
-vcf-template-demo/frontend/index.html
-vcf-template-demo/src/main/bundles
+vcf-bpmn-demo/package.json
+vcf-bpmn-demo/webpack.config.js
+vcf-bpmn-demo/webpack.generated.js
+vcf-bpmn-demo/tsconfig.json
+vcf-bpmn-demo/types.d.ts
+vcf-bpmn-demo/target/classes/META-INF/VAADIN/config/flow-build-info.json
+vcf-bpmn-demo/node_modules
+vcf-bpmn-demo/package-lock.json
+vcf-bpmn-demo/frontend/generated
+vcf-bpmn-demo/frontend/index.html
+vcf-bpmn-demo/src/main/bundles
+vcf-bpmn-demo/src/main/frontend/generated
+vcf-bpmn-demo/vite.config.ts
+vcf-bpmn-demo/vite.generated.ts
 
 # ide configurations
 .vscode/settings.json
