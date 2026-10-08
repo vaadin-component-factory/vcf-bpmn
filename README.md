@@ -4,6 +4,9 @@ Vaadin Flow integration of [bpmn-js](https://bpmn.io/toolkit/bpmn-js/): a BPMN 2
 
 This component is part of Vaadin Component Factory.
 
+* [Vaadin Directory](https://vaadin.com/directory/component/bpmn-add-on)
+* [Online demo](https://vcf-demos.org/v25/bpmn/)
+
 ## Features
 
 * BPMN 2.0 editor (bpmn-js Modeler) with the properties panel on the right
