@@ -10,7 +10,7 @@
 
     <name>BPMN Add-on</name>
 
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <inceptionYear>2026</inceptionYear>
     <organization>
         <name>Vaadin Ltd</name>
